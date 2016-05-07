@@ -1,0 +1,14 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	font-size: 18px;
+	font-family: "Arial",Helvetica,serif;
+	color: #333333;
+}
+.navbar-default .navbar-collapse {
+	float: right;
+
+  }
+  #bs-example-navbar-collapse-7{
+    margin-right: 130px;	
+  }
